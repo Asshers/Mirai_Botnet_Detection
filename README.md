@@ -1,6 +1,6 @@
 # Mirai_Botnet_Detection
-Protecting iots from Mirai Botnet using DL
-To protect IoT devices from the Mirai botnet, a deep learning approach using a CNN-LSTM architecture can be employed. The N-BaIoT dataset, a widely-used dataset for IoT network traffic analysis, is utilized for training and evaluation. The dataset is preprocessed and divided into training and testing sets to facilitate model development.
+#Protecting iots from Mirai Botnet using DL
+#To protect IoT devices from the Mirai botnet, a deep learning approach using a CNN-LSTM architecture can be employed. The N-BaIoT dataset, a widely-used dataset for IoT network traffic analysis, is utilized for training and evaluation. The dataset is preprocessed and divided into training and testing sets to facilitate model development.
 
 #import packages
 import numpy as np  # linear algebra
